@@ -2,7 +2,7 @@
 
 
 
-> Note: Letslink also named Link, Midea Group internal has provided the official download page of the app. Users can download Letslink through the official page, please check and make sure the ***midea.com\*** domain name.  
+> Note: Letslink also named Link, Letslink Development Team has provided the official download page of the app. Users can download Letslink through the github page, please check and make sure the **letslink.git** repository .  
 >
 
 ## Download& Installation guidance
@@ -20,7 +20,7 @@ https://mapdownload5.midea.com/file/v5/app/download/263798/public/mam/attachment
 
 When you download Letslink from this link above, the device might possibly remind you the risk or warn you it might be harmful, choose download anyway to continue the download (According to the differences of mobile devices, the remind preferences would be different, just click trust to complete the download task. In some cases, the option ‘continue to download’ may be hidden in more options, and click more to choose continue to download) 
 
-Note: The warnings come from mobile system, app installation from the sources which untrusted or unknown by the original system will receive the warnings, as a result please **make sure you download the app from the midea.com domain**. And we declare again, Midea do not collect or use User's information without permission for any illegal or commercial purposes.  This is the privacy agreement of Letslink, please check.
+Note: The warnings come from mobile system, app installation from the sources which untrusted or unknown by the original system will receive the warnings, as a result please **make sure you download the app from the https://github.com/syosan/letslink.git**. And we declare again, Letslink Development Team do not collect or use User's information without permission for any illegal or commercial purposes.  This is the privacy agreement of Letslink, please check.
 
 [Letslink Privacy Agreement](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
@@ -64,7 +64,7 @@ The following content is French version for download & installation of Letslink
 
 # Guide de téléchargement et d'installation de Letslink (version Android)
 
-> Remarque : Letslink également nommé Link, Midea Group interne a fourni la page de téléchargement officielle de l'application. Les utilisateurs peuvent télécharger Letslink via la page officielle, veuillez vérifier et vous assurer que le nom de domaine ***midea.com***.
+> Remarque : Letslink également nommé Link, Letslink Development Team a fourni la page de téléchargement officielle de l'application. Les utilisateurs peuvent télécharger Letslink via la page officielle, veuillez vérifier et vous assurer que le nom de domaine ***letslink.git*** repository.
 
 ## Guide de téléchargement et d'installation
 
@@ -81,7 +81,7 @@ https://mapdownload5.midea.com/file/v5/app/download/263798/public/mam/attachment
 
 Lorsque vous téléchargez Letslink à partir de ce lien ci-dessus, l'appareil peut éventuellement vous rappeler le risque ou vous avertir qu'il pourrait être dangereux, choisissez quand même télécharger pour continuer le téléchargement (Selon les différences des appareils mobiles, les préférences de rappel seraient différentes, cliquez simplement sur trust pour terminer la tâche de téléchargement. Dans certains cas, l'option "continuer le téléchargement" peut être masquée dans d'autres options, cliquez sur plus pour choisir de continuer le téléchargement)
 
-Remarque : Les avertissements proviennent du système mobile, l'installation de l'application à partir de sources non fiables ou inconnues du système d'origine recevra les avertissements. Par conséquent, veuillez **assurez-vous de télécharger l'application à partir du domaine midea.com**. Et nous déclarons à nouveau que Midea ne collecte ni n'utilise les informations de l'utilisateur sans autorisation à des fins illégales ou commerciales. Ceci est l'accord de confidentialité de Letslink, veuillez vérifier.
+Remarque : Les avertissements proviennent du système mobile, l'installation de l'application à partir de sources non fiables ou inconnues du système d'origine recevra les avertissements. Par conséquent, veuillez **assurez-vous de télécharger l'application à partir du https://github.com/syosan/letslink.git **. Et nous déclarons à nouveau que Letslink Development Team ne collecte ni n'utilise les informations de l'utilisateur sans autorisation à des fins illégales ou commerciales. Ceci est l'accord de confidentialité de Letslink, veuillez vérifier.
 
 [Accord de confidentialité Letslink](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
@@ -127,7 +127,7 @@ The following content is Portuguese version for download & installation of Letsl
 
 
 
-> Nota: Letslink também chamado de Link, Midea Group interno forneceu a página oficial de download do aplicativo. Os usuários podem baixar Letslink através da página oficial, verifique e certifique-se do nome de domínio ***midea.com***.
+> Nota: Letslink também chamado de Link, Letslink Development Team forneceu a página oficial de download do aplicativo. Os usuários podem baixar Letslink através da página oficial, verifique e certifique-se do nome de domínio ***letslink.git*** repository.
 
 ## Diretrizes de download e instalação
 
@@ -144,7 +144,7 @@ https://mapdownload5.midea.com/file/v5/app/download/263798/public/mam/attachment
 
 Quando você baixar Letslink deste link acima, o dispositivo pode lembrá-lo do risco ou avisá-lo que pode ser prejudicial, escolha baixar de qualquer maneira para continuar o download (De acordo com as diferenças dos dispositivos móveis, as preferências de lembrete seriam diferentes, basta clicar trust para concluir a tarefa de download. Em alguns casos, a opção 'continuar o download' pode estar oculta em mais opções e clique em mais para escolher continuar o download)
 
-Nota: Os avisos vêm do sistema móvel, a instalação do aplicativo de fontes não confiáveis ou desconhecidas pelo sistema original receberá os avisos, como resultado **certifique-se de baixar o aplicativo do domínio midea.com**. E declaramos novamente que a Midea não coleta ou usa as informações do Usuário sem permissão para quaisquer fins ilegais ou comerciais. Este é o acordo de privacidade da Letslink, por favor verifique.
+Nota: Os avisos vêm do sistema móvel, a instalação do aplicativo de fontes não confiáveis ou desconhecidas pelo sistema original receberá os avisos, como resultado **certifique-se de baixar o aplicativo do domínio https://github.com/syosan/letslink.git **. E declaramos novamente que a Letslink Development Team não coleta ou usa as informações do Usuário sem permissão para quaisquer fins ilegais ou comerciais. Este é o acordo de privacidade da Letslink, por favor verifique.
 
 [Acordo de privacidade Letslink](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
@@ -190,7 +190,7 @@ The following content is Spanish version for download & installation of Letslink
 
 
 
-> Nota: Letslink también se llama Link, el interno de Midea Group ha proporcionado la página de descarga oficial de la aplicación. Los usuarios pueden descargar Letslink a través de la página oficial, verifique y asegúrese de que el nombre de dominio es ***midea.com***.
+> Nota: Letslink también se llama Link, el interno de Letslink Development Team ha proporcionado la página de descarga oficial de la aplicación. Los usuarios pueden descargar Letslink a través de la página oficial, verifique y asegúrese de que el nombre de dominio es ***letslink.git*** repository.
 
 ## Guía de descarga e instalación
 
@@ -207,7 +207,7 @@ https://mapdownload5.midea.com/file/v5/app/download/263798/public/mam/attachment
 
 Cuando descargue Letslink desde este enlace anterior, es posible que el dispositivo le recuerde el riesgo o le advierta que podría ser dañino, elija descargar de todos modos para continuar con la descarga (según las diferencias de los dispositivos móviles, las preferencias de recordatorio serían diferentes, simplemente haga clic en confianza para completar la tarea de descarga. En algunos casos, la opción 'continuar con la descarga' puede estar oculta en más opciones, y haga clic en más para elegir continuar con la descarga)
 
-Nota: Las advertencias provienen del sistema móvil, la instalación de la aplicación de las fuentes que no son confiables o desconocidas por el sistema original recibirán las advertencias, como resultado, **asegúrese de descargar la aplicación desde el dominio midea.com**. Y declaramos nuevamente que Midea no recopila ni utiliza la información del usuario sin permiso para fines comerciales o ilegales. Este es el acuerdo de privacidad de Letslink, verifíquelo.
+Nota: Las advertencias provienen del sistema móvil, la instalación de la aplicación de las fuentes que no son confiables o desconocidas por el sistema original recibirán las advertencias, como resultado, **asegúrese de descargar la aplicación desde el https://github.com/syosan/letslink.git **. Y declaramos nuevamente que Letslink Development Team no recopila ni utiliza la información del usuario sin permiso para fines comerciales o ilegales. Este es el acuerdo de privacidad de Letslink, verifíquelo.
 
 [Acuerdo de privacidad de Letslink](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
@@ -251,7 +251,7 @@ The following content is Chinese version for download & installation of Letslink
 
  
 
-说明：Letslink又名Link，内部有提供美的官方下载页，可以通过该官方页面进行下载，**请认准midea.com域名。**
+说明：Letslink又名Link，内部有提供美的官方下载页，可以通过该官方页面进行下载，**请认准letslink.git这个代码仓库。**
 
  
 
@@ -265,7 +265,7 @@ https://mapdownload5.midea.com/file/v5/app/download/263798/public/mam/attachment
 
  
 
-请使用手机浏览器输入官网下载地址（*link.midea.com*），或者使用手机浏览器扫描以下二维码打开官方网站
+请使用手机浏览器输入github下载地址（*https://github.com/syosan/letslink.git*），或者使用手机浏览器扫描以下二维码打开官方网站
 
 ![img](media/clip_image001-16444630161852.png)
 
@@ -275,7 +275,7 @@ https://mapdownload5.midea.com/file/v5/app/download/263798/public/mam/attachment
 
 2、 点击Download Now 
 
-这时可能会提示软件会危害您的设备（此为系统安全自带行为，非原生系统来源皆会有此提示，因此认准midea.com域名），点击继续下载（根据机型不同提示可能会有不同，点击信任继续下载即可，部分机芯可能会隐藏继续下载，点击更多后可以点击继续下载）
+这时可能会提示软件会危害您的设备（此为系统安全自带行为，非原生系统来源皆会有此提示，因此认准letslink.git这个代码仓库），点击继续下载（根据机型不同提示可能会有不同，点击信任继续下载即可，部分机芯可能会隐藏继续下载，点击更多后可以点击继续下载）
 
 再次声明，美的并不收集或未经许可利用user的信息，做任何非法的或带有商业目的的操作。以下为Letslink隐私协议，请查看
 
