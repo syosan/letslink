@@ -4,7 +4,7 @@
 
 Please click [here](https://apps.apple.com/cn/app/letslink/id1542556918) to download Letslink.
 
-Or copy the link below to your browser to download. (The link only support android version)
+Or copy the link below to your browser to download. (The link only support iOS version)
 
 ```html
 https://apps.apple.com/cn/app/letslink/id1542556918
