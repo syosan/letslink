@@ -89,7 +89,7 @@ Veuillez cliquer [ici](https://github.com/syosan/letslink/raw/master/apps/Link_a
 Ou copiez le lien ci-dessous dans votre navigateur pour le télécharger. (Le lien ne prend en charge que la version Android)
 
 ```html
-https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk
+https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
 ```
 
