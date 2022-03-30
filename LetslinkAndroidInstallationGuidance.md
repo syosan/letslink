@@ -1,6 +1,19 @@
+
+
+# Download & installation guidance of Letslink（iOS version）
+
+Please click [here](https://apps.apple.com/cn/app/letslink/id1542556918) to download Letslink.
+
+Or copy the link below to your browser to download. (The link only support android version)
+
+```html
+https://apps.apple.com/cn/app/letslink/id1542556918
+
+```
+
+
+
 # Download & installation guidance of Letslink（Android version）
-
-
 
 > Note: Letslink also named Link, Letslink Development Team has provided the official download page of the app. Users can download Letslink through the github page, please check and make sure the **letslink.git** repository .  
 >
