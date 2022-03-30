@@ -89,13 +89,13 @@ Veuillez cliquer [ici](https://github.com/syosan/letslink/raw/master/apps/Link_a
 Ou copiez le lien ci-dessous dans votre navigateur pour le télécharger. (Le lien ne prend en charge que la version Android)
 
 ```html
-https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
+https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk
 
 ```
 
 Lorsque vous téléchargez Letslink à partir de ce lien ci-dessus, l'appareil peut éventuellement vous rappeler le risque ou vous avertir qu'il pourrait être dangereux, choisissez quand même télécharger pour continuer le téléchargement (Selon les différences des appareils mobiles, les préférences de rappel seraient différentes, cliquez simplement sur trust pour terminer la tâche de téléchargement. Dans certains cas, l'option "continuer le téléchargement" peut être masquée dans d'autres options, cliquez sur plus pour choisir de continuer le téléchargement)
 
-Remarque : Les avertissements proviennent du système mobile, l'installation de l'application à partir de sources non fiables ou inconnues du système d'origine recevra les avertissements. Par conséquent, veuillez **assurez-vous de télécharger l'application à partir du https://github.com/syosan/letslink.git **. Et nous déclarons à nouveau que Letslink Development Team ne collecte ni n'utilise les informations de l'utilisateur sans autorisation à des fins illégales ou commerciales. Ceci est l'accord de confidentialité de Letslink, veuillez vérifier.
+Remarque : Les avertissements proviennent du système mobile, l'installation de l'application à partir de sources non fiables ou inconnues du système d'origine recevra les avertissements. Par conséquent, veuillez **assurez-vous de télécharger l'application à partir du https://github.com/syosan/letslink.git**. Et nous déclarons à nouveau que Letslink Development Team ne collecte ni n'utilise les informations de l'utilisateur sans autorisation à des fins illégales ou commerciales. Ceci est l'accord de confidentialité de Letslink, veuillez vérifier.
 
 [Accord de confidentialité Letslink](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
@@ -158,7 +158,7 @@ https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
 Quando você baixar Letslink deste link acima, o dispositivo pode lembrá-lo do risco ou avisá-lo que pode ser prejudicial, escolha baixar de qualquer maneira para continuar o download (De acordo com as diferenças dos dispositivos móveis, as preferências de lembrete seriam diferentes, basta clicar trust para concluir a tarefa de download. Em alguns casos, a opção 'continuar o download' pode estar oculta em mais opções e clique em mais para escolher continuar o download)
 
-Nota: Os avisos vêm do sistema móvel, a instalação do aplicativo de fontes não confiáveis ou desconhecidas pelo sistema original receberá os avisos, como resultado **certifique-se de baixar o aplicativo do domínio https://github.com/syosan/letslink.git **. E declaramos novamente que a Letslink Development Team não coleta ou usa as informações do Usuário sem permissão para quaisquer fins ilegais ou comerciais. Este é o acordo de privacidade da Letslink, por favor verifique.
+Nota: Os avisos vêm do sistema móvel, a instalação do aplicativo de fontes não confiáveis ou desconhecidas pelo sistema original receberá os avisos, como resultado **certifique-se de baixar o aplicativo do domínio https://github.com/syosan/letslink.git**. E declaramos novamente que a Letslink Development Team não coleta ou usa as informações do Usuário sem permissão para quaisquer fins ilegais ou comerciais. Este é o acordo de privacidade da Letslink, por favor verifique.
 
 [Acordo de privacidade Letslink](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
@@ -221,7 +221,7 @@ https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
 Cuando descargue Letslink desde este enlace anterior, es posible que el dispositivo le recuerde el riesgo o le advierta que podría ser dañino, elija descargar de todos modos para continuar con la descarga (según las diferencias de los dispositivos móviles, las preferencias de recordatorio serían diferentes, simplemente haga clic en confianza para completar la tarea de descarga. En algunos casos, la opción 'continuar con la descarga' puede estar oculta en más opciones, y haga clic en más para elegir continuar con la descarga)
 
-Nota: Las advertencias provienen del sistema móvil, la instalación de la aplicación de las fuentes que no son confiables o desconocidas por el sistema original recibirán las advertencias, como resultado, **asegúrese de descargar la aplicación desde el https://github.com/syosan/letslink.git **. Y declaramos nuevamente que Letslink Development Team no recopila ni utiliza la información del usuario sin permiso para fines comerciales o ilegales. Este es el acuerdo de privacidad de Letslink, verifíquelo.
+Nota: Las advertencias provienen del sistema móvil, la instalación de la aplicación de las fuentes que no son confiables o desconocidas por el sistema original recibirán las advertencias, como resultado, **asegúrese de descargar la aplicación desde el https://github.com/syosan/letslink.git**. Y declaramos nuevamente que Letslink Development Team no recopila ni utiliza la información del usuario sin permiso para fines comerciales o ilegales. Este es el acuerdo de privacidad de Letslink, verifíquelo.
 
 [Acuerdo de privacidad de Letslink](https://mapsales.midea.com/LetslinkPrivateEN.html)
 
