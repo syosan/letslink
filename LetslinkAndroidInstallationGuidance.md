@@ -279,7 +279,7 @@ https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
  
 
-请使用手机浏览器输入github下载地址（**https://github.com/syosan/letslink.git**），或者使用手机浏览器扫描以下二维码打开官方网站
+请使用手机浏览器输入github下载地址（https://github.com/syosan/letslink.git），或者使用手机浏览器扫描以下二维码打开官方网站
 
 ![img](media/clip_image001-16444630161852.png)
 
