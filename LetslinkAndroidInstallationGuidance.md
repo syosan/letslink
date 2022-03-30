@@ -103,7 +103,7 @@ Remarque : Les avertissements proviennent du système mobile, l'installation de 
 
 ![img](media/clip_image005.jpg) ![img](media/clip_image007.jpg)
 
- **2、Lorsque vous avez terminé le téléchargement, cliquez sur le fichier apk pour installer **
+ **2、Lorsque vous avez terminé le téléchargement, cliquez sur le fichier apk pour installer**
 
  PS：Comme l'application provient d'une source qui n'est pas approuvée par le système d'origine, l'installation peut être rappelée des risques ou être également avertie. Autorisez-le et terminez l'installation.
 
