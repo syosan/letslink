@@ -103,7 +103,7 @@ Remarque : Les avertissements proviennent du système mobile, l'installation de 
 
 ![img](media/clip_image005.jpg) ![img](media/clip_image007.jpg)
 
- **2、Lorsque vous avez terminé le téléchargement, cliquez sur le fichier apk pour installer ****
+ **2、Lorsque vous avez terminé le téléchargement, cliquez sur le fichier apk pour installer **
 
  PS：Comme l'application provient d'une source qui n'est pas approuvée par le système d'origine, l'installation peut être rappelée des risques ou être également avertie. Autorisez-le et terminez l'installation.
 
@@ -145,7 +145,7 @@ The following content is Portuguese version for download & installation of Letsl
 
 ## Diretrizes de download e instalação
 
-**1、Baixe Letslink**** 
+**1、Baixe Letslink**
 
 Por favor clique [aqui](https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk) tara baixar Letslink.
 
