@@ -9,12 +9,12 @@
 
 **1、Download Letslink** 
 
-Please click [here](https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk) to download Letslink.
+Please click [here](https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk) to download Letslink.
 
 Or copy the link below to your browser to download. (The link only support android version)
 
 ```html
-https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk
+https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
 ```
 
@@ -70,7 +70,7 @@ The following content is French version for download & installation of Letslink
 
 **1、Télécharger Letslink** 
 
-Veuillez cliquer [ici](https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk) pour télécharger Letslink.
+Veuillez cliquer [ici](https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk) pour télécharger Letslink.
 
 Ou copiez le lien ci-dessous dans votre navigateur pour le télécharger. (Le lien ne prend en charge que la version Android)
 
@@ -133,12 +133,12 @@ The following content is Portuguese version for download & installation of Letsl
 
 **1、Baixe Letslink**** 
 
-Por favor clique [aqui](https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk) tara baixar Letslink.
+Por favor clique [aqui](https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk) tara baixar Letslink.
 
 Ou copie o link abaixo no seu navegador para fazer o download. (O link só suporta a versão android)
 
 ```html
-https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk
+https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
 ```
 
@@ -196,12 +196,12 @@ The following content is Spanish version for download & installation of Letslink
 
 **1、Descargar Letslink**
 
-Haga clic [aquí](https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk) para descargar Letslink.
+Haga clic [aquí](https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk) para descargar Letslink.
 
 O copie el siguiente enlace a su navegador para descargar. (El enlace solo admite la versión de Android)
 
 ```html
-https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk
+https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
 ```
 
@@ -261,7 +261,7 @@ The following content is Chinese version for download & installation of Letslink
 
 1、点击以下链接进行Letslink的下载 （此链接仅支持安卓）
 
-https://github.com/syosan/letslink/blob/master/apps/Link_android_5.4.12.apk
+https://github.com/syosan/letslink/raw/master/apps/Link_android_5.4.12.apk
 
  
 
